@@ -1,0 +1,38 @@
+h3{
+    font-size: 30px;
+    color: #607d8b;
+}
+
+h4{
+    font-size: 25px;
+    color: #607d8b;
+}
+
+h5{
+    font-size: 20px;
+    color: #607d8b;
+}
+
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+
+img{
+    width: 60%;
+    max-height: 350px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.gallery{
+    width: 100%;
+    margin-bottom: 20px;
+}
